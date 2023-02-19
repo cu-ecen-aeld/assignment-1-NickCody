@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 FILESDIR=${1:-""}
 SEARCHSTR=${2:-""}
 
